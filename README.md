@@ -2,7 +2,7 @@
 
 ## Description
 
-Oportunidades is a platform dedicated to connecting artists with global opportunities such as scholarships, residencies, and competitions. Our mission is to make these opportunities accessible to everyone, while also inviting developers to join us in refining and expanding this open-source project.
+100 ︱ Oportunidades is a platform dedicated to connecting artists with global opportunities such as scholarships, residencies, and competitions. Our mission is to make these opportunities accessible to everyone, while also inviting developers to join us in refining and expanding this open-source project.
 
 ## For Opportunity Seekers
 
