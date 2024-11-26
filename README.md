@@ -1,4 +1,4 @@
-# 100 ︱ Oportunidades - Global Artistic Opportunities For Latinxs, Made Open Source
+# 100 ︱ Oportunidades - Global Artistic Opportunities For Latinxs, Open Sourced
 
 ## Description
 
