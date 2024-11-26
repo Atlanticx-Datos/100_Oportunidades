@@ -1,6 +1,6 @@
 ![Logo](Logo.png)
 
-# 100 ︱ Oportunidades - Convocatorias Artísticas Globales para Latinxs, Código Abierto
+# 100 ︱ Oportunidades - Convocatorias Artísticas Globales para Latinxs, Datos Abiertos
 
 ## [English version](#description)
 
