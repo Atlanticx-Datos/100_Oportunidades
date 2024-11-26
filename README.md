@@ -1,29 +1,69 @@
 # 100 ︱ Oportunidades - Global Artistic Opportunities For Latinxs, Open Sourced
 
+## [English version](#description)
+
+### Descripción
+
+100 ︱ Oportunidades es una plataforma dedicada a conectar a artistas con oportunidades globales como becas, residencias y concursos. Nuestra misión es hacer que estas oportunidades sean accesibles para todos, al mismo tiempo que invitamos a desarrolladores a unirse a nosotros para refinar y expandir este proyecto de código abierto.
+
+### Origen de las Oportunidades
+
+Las oportunidades presentadas en nuestra plataforma se obtienen a través de un proceso automatizado que recopila información de varios sitios web de oportunidades. Este método nos permite superar barreras como muros de pago y navegación complicada, asegurando que las oportunidades estén actualizadas y sean accesibles. Además, nuestra base de datos de Notion se mejora con inteligencia artificial para generar resúmenes rápidos y legibles de cada oportunidad.
+
+### Para Artistas y Agentes Culturales
+
+- **Accede a Oportunidades:** Descarga archivos CSV periódicos que contienen las últimas oportunidades directamente desde nuestra base de datos de Notion.
+- **Mantente Actualizado:** Actualizaciones regulares aseguran que tengas acceso a las oportunidades más actuales disponibles en todo el mundo.
+
+### Para Desarrolladores
+
+- **Iniciativa de Código Abierto:** Estamos en el proceso de pulir y documentar nuestra base de código para hacerla verdaderamente de código abierto. Tus contribuciones pueden ayudarnos a mejorar la funcionalidad y usabilidad de la plataforma.
+- **Desarrollo Colaborativo:** Únete a nuestra comunidad de desarrolladores para mejorar la plataforma, corregir imperfecciones e implementar nuevas características.
+- **Tecnología Utilizada:** Construido con Flask, integrado con Notion y Auth0, y optimizado con caché de Redis.
+
+### Comenzando
+
+1. **Para Usuarios:** Visita nuestro [sitio web](http://oportunidades-vercel.vercel.app) para explorar oportunidades y nuestras herramientas (compartir y guardar).
+2. **Para Desarrolladores:** Clona el repositorio y sigue las instrucciones de configuración en el README para comenzar a contribuir.
+
+### Contribuciones
+
+Damos la bienvenida a contribuciones de desarrolladores de todos los niveles. Ya sea que estés interesado en corregir errores, agregar nuevas características o mejorar la documentación, tu aporte es valioso. Por favor, consulta nuestras [directrices de contribución](CONTRIBUTING.md) para más información.
+
+### Únete a Nosotros
+
+Sé parte de un proyecto que no solo conecta a artistas con oportunidades, sino que también fomenta una comunidad colaborativa de código abierto. Juntos, podemos hacer de 100 ︱ Oportunidades un recurso completo y accesible para artistas en todo el mundo.
+
+---
+
 ## Description
 
 100 ︱ Oportunidades is a platform dedicated to connecting artists with global opportunities such as scholarships, residencies, and competitions. Our mission is to make these opportunities accessible to everyone, while also inviting developers to join us in refining and expanding this open-source project.
 
-## For Artists and Cultural agents
+### Origin of Opportunities
+
+The opportunities featured on our platform are sourced through an automated process that scrapes information from various opportunity websites. This method allows us to overcome barriers such as paywalls and complex navigation, ensuring that opportunities are up-to-date and accessible. Additionally, our Notion database is enhanced with artificial intelligence to generate quick, readable summaries of each opportunity.
+
+### For Artists and Cultural Agents
 
 - **Access Opportunities:** Download periodic CSV files containing the latest opportunities directly from our Notion database.
 - **Stay Updated:** Regular updates ensure you have access to the most current opportunities available worldwide.
 
-## For Developers
+### For Developers
 
 - **Open Source Initiative:** We are in the process of polishing and documenting our codebase to make it truly open-source. Your contributions can help us enhance the platform's functionality and usability.
 - **Collaborative Development:** Join our community of developers to improve the platform, fix rough edges, and implement new features.
 - **Tech Stack:** Built with Flask, integrated with Notion and Auth0, and optimized with Redis caching.
 
-## Getting Started
+### Getting Started
 
 1. **For Users:** Visit our [website](http://oportunidades-vercel.vercel.app) to explore opportunities and our tools (sharing and saving).
 2. **For Developers:** Clone the repository and follow the setup instructions in the README to start contributing.
 
-## Contributing
+### Contributing
 
 We welcome contributions from developers of all levels. Whether you're interested in fixing bugs, adding new features, or improving documentation, your input is valuable. Please check our [contributing guidelines](CONTRIBUTING.md) for more information.
 
-## Join Us
+### Join Us
 
-Be part of a project that not only connects artists with opportunities but also fosters a collaborative open-source community. Together, we can make Oportunidades a comprehensive and accessible resource for artists worldwide.
+Be part of a project that not only connects artists with opportunities but also fosters a collaborative open-source community. Together, we can make 100 ︱ Oportunidades a comprehensive and accessible resource for artists worldwide.
