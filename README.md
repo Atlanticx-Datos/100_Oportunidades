@@ -14,8 +14,8 @@ Las oportunidades presentadas en nuestra plataforma se obtienen a través de un 
 
 ### Para Artistas y Agentes Culturales
 
-- **Accede a Oportunidades:** Descargá nuestra base de datos en formato CSV. El archivo contiene las oportunidades descargadas directamente desde nuestra base de datos de Notion.
-- **Mantente Actualizado:** Actualizaciones regulares aseguran que tengas acceso a las oportunidades más actuales disponibles en todo el mundo.
+- **Accede a Oportunidades:** Descargá nuestra base de datos en formato CSV. El archivo contiene las oportunidades que alimentan el servicio web.
+- **Mantente Actualizado:** Las actualizaciones regulares aseguran que tengas acceso a las oportunidades más actuales disponibles en todo el mundo.
 
 ### Para Desarrolladores
 
