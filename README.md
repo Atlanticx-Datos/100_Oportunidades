@@ -34,7 +34,7 @@ Damos la bienvenida a contribuciones de desarrolladores de todos los niveles. Ya
 
 ### Únete a Nosotros
 
-Sé parte de un proyecto que no solo conecta a artistas con oportunidades, sino que también fomenta una comunidad colaborativa de código abierto. Juntos, podemos hacer de 100 ︱ Oportunidades un recurso completo y accesible para artistas en todo el mundo.
+Sé parte de un proyecto que no solo conecta a artistas con oportunidades, sino que también fomenta una comunidad colaborativa de código abierto. Juntos, podemos hacer de 100 ︱ Oportunidades un recurso completo y accesible para artistas, estudiantes, investigadores y trabajadores culturales en todo el mundo.
 
 ---
 
