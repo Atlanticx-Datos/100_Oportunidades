@@ -4,11 +4,11 @@
 
 ### Descripción
 
-100 ︱ Oportunidades es una plataforma dedicada a conectar a artistas con oportunidades globales como becas, residencias y concursos. Nuestra misión es hacer que estas oportunidades sean accesibles para todos, al mismo tiempo que invitamos a desarrolladores a unirse a nosotros para refinar y expandir este proyecto de código abierto.
+100 ︱ Oportunidades es una plataforma dedicada a conectar a artistas con convocatorias de potencial transformador como becas, residencias, fondos de movilidad y concursos. Nuestra misión es hacer que estas oportunidades sean accesibles y manejables para todos, al mismo tiempo que invitamos a desarrolladores a unirse a nosotros para refinar y expandir este proyecto de código abierto.
 
 ### Origen de las Oportunidades
 
-Las oportunidades presentadas en nuestra plataforma se obtienen a través de un proceso automatizado que recopila información de varios sitios web de oportunidades. Este método nos permite superar barreras como muros de pago y navegación complicada, asegurando que las oportunidades estén actualizadas y sean accesibles. Además, nuestra base de datos de Notion se mejora con inteligencia artificial para generar resúmenes rápidos y legibles de cada oportunidad.
+Las oportunidades presentadas en nuestra plataforma se obtienen a través de un proceso automatizado que recopila información de varios sitios web. Este método nos permite superar barreras como muros de pago o navegaciones complicadas publicidad o relevancia, asegurando que las oportunidades estén actualizadas. Además, filtramos la data desde una mirada experta que solo publica convocatorias relevantes. Por último, nuestra base de datos se integra a la inteligencia artificial para generar resúmenes rápidos y legibles de cada oportunidad.
 
 ### Para Artistas y Agentes Culturales
 
@@ -17,11 +17,11 @@ Las oportunidades presentadas en nuestra plataforma se obtienen a través de un 
 
 ### Para Desarrolladores
 
-- **Iniciativa de Código Abierto:** Estamos en el proceso de pulir y documentar nuestra base de código para hacerla verdaderamente de código abierto. Tus contribuciones pueden ayudarnos a mejorar la funcionalidad y usabilidad de la plataforma.
+- **Iniciativa de Código Abierto:** Estamos en el proceso de pulir y documentar nuestra base de código para hacerla disponible como una base de código abierto de calidad. Tus contribuciones pueden ayudarnos a mejorar la funcionalidad y usabilidad de la plataforma.
 - **Desarrollo Colaborativo:** Únete a nuestra comunidad de desarrolladores para mejorar la plataforma, corregir imperfecciones e implementar nuevas características.
 - **Tecnología Utilizada:** Construido con Flask, integrado con Notion y Auth0, y optimizado con caché de Redis.
 
-### Comenzando
+### Para empezar
 
 1. **Para Usuarios:** Visita nuestro [sitio web](http://oportunidades-vercel.vercel.app) para explorar oportunidades y nuestras herramientas (compartir y guardar).
 2. **Para Desarrolladores:** Clona el repositorio y sigue las instrucciones de configuración en el README para comenzar a contribuir.
