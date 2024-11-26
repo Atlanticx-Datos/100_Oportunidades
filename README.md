@@ -6,11 +6,11 @@
 
 ### Descripción
 
-100 ︱ Oportunidades es una plataforma dedicada a conectar a artistas con convocatorias de potencial transformador como becas, residencias, fondos de movilidad y concursos. Nuestra misión es hacer que estas oportunidades sean accesibles y manejables para todos, al mismo tiempo que invitamos a desarrolladores a unirse a nosotros para refinar y expandir este proyecto de código abierto.
+100 ︱ Oportunidades es una plataforma dedicada a conectar a los artistas del continente con convocatorias de desarrollo profesional y formación. El proyecto construye datos públicos en relación a: becas, residencias, fondos de producción y/o movilidad, premios y concursos. Nuestra misión es hacer que estas oportunidades sean tratadas desde la pespestive que plante la alianza "Digital Public Goods" y que estos datos abiertos sean manejables para todos. Al mismo tiempo, invitamos a desarrolladores a unirse a nosotros para refinar y expandir este proyecto al hacerlo paulatinamente de código abierto.
 
 ### Origen de las Oportunidades
 
-Las oportunidades presentadas en nuestra plataforma se obtienen a través de un proceso automatizado que recopila información de varios sitios web. Este método nos permite superar barreras como muros de pago o navegaciones complicadas, asegurando que las oportunidades estén actualizadas. Además, filtramos la data desde una mirada experta que solo publica convocatorias relevantes. Por último, nuestra base de datos se integra a la inteligencia artificial para generar resúmenes rápidos y legibles de cada oportunidad.
+Las oportunidades presentadas en nuestra plataforma se obtienen a través de un proceso automatizado. Se trata de un script que utiliza la librería de javascript llamada "Playright" para recopilar información de varios sitios web. Este método nos permite superar algunos muros de pago y sobretodo, las navegaciones complicadas por publicidades o la recolecci´øn de datos personales. Por otro lado, 100 ⎸ Oportunidades filtra la información considerando tanto la fecha de cierre como incorporando la mirada experta de humanos. Esto garantiza la publicación de convocatorias relevantes cada día. Por último, parecee importante mencionar que nuestra base de datos se integra a la inteligencia artificial con el fin de generar resúmenes rápidos y legibles de cada oportunidad. 
 
 ### Para Artistas y Agentes Culturales
 
