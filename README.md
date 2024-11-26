@@ -12,7 +12,7 @@
 
 Las oportunidades presentadas en nuestra plataforma se obtienen a través de un proceso automatizado. Se trata de un script que utiliza la librería de javascript llamada "Playright" para recopilar información de varios sitios web. Este método nos permite superar algunos muros de pago y sobretodo, las navegaciones complicadas por publicidades o la recolecci´øn de datos personales. Por otro lado, 100 ⎸ Oportunidades filtra la información considerando tanto la fecha de cierre como incorporando la mirada experta de humanos. Esto garantiza la publicación de convocatorias relevantes cada día. Por último, parecee importante mencionar que nuestra base de datos se integra a la inteligencia artificial con el fin de generar resúmenes rápidos y legibles de cada oportunidad. 
 
-### Para Artistas y Agentes Culturales
+### Para Artistas, Estudiantes, Investigadores y Agentes de la Cultura
 
 - **Accede a Oportunidades:** Descargá nuestra base de datos en formato CSV. El archivo contiene las oportunidades que alimentan el [servicio web](https://github.com/Atlanticx-Datos/100_Oportunidades).
 - **Mantente Actualizado:** Las actualizaciones regulares aseguran que tengas acceso a las oportunidades más actuales disponibles en todo el mundo.
