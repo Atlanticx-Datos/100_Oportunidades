@@ -17,7 +17,7 @@
 
 ## Getting Started
 
-1. **For Users:** Visit our [website](http://oportunidades-vercel.vercel.app) to explore opportunities and download the latest CSV files.
+1. **For Users:** Visit our [website](http://oportunidades-vercel.vercel.app) to explore opportunities and our tools (sharing and saving).
 2. **For Developers:** Clone the repository and follow the setup instructions in the README to start contributing.
 
 ## Contributing
