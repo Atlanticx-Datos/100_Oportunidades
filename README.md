@@ -46,7 +46,7 @@ Sé parte de un proyecto que no solo conecta a artistas con oportunidades, sino 
 
 The opportunities featured on our platform are sourced through an automated process that scrapes information from various opportunity websites. This method allows us to overcome barriers such as paywalls and complex navigation, ensuring that opportunities are up-to-date and accessible. Additionally, our Notion database is enhanced with artificial intelligence to generate quick, readable summaries of each opportunity.
 
-### For Artists and Cultural Agents
+### For Artists, Students, Researchers and Cultural Workers
 
 - **Access Opportunities:** Download periodic CSV files containing the latest opportunities directly from our Notion database.
 - **Stay Updated:** Regular updates ensure you have access to the most current opportunities available worldwide.
