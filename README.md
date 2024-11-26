@@ -1,3 +1,5 @@
+![Logo](Logo.png)
+
 # 100 ︱ Oportunidades - Convocatorias Artísticas Globales para Latinxs, Open Sourced
 
 ## [English version](#description)
