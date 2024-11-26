@@ -2,7 +2,7 @@
 
 # 100 ︱ Oportunidades - Convocatorias Artísticas Globales para Latinxs, Datos Abiertos
 
-## [English version](#description)
+## [English version below](#description)
 
 ### Descripción
 
