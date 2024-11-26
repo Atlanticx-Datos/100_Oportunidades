@@ -14,13 +14,13 @@ Las oportunidades presentadas en nuestra plataforma se obtienen a través de un 
 
 ### Para Artistas y Agentes Culturales
 
-- **Accede a Oportunidades:** Descargá nuestra base de datos en formato CSV. El archivo contiene las oportunidades que alimentan el servicio web.
+- **Accede a Oportunidades:** Descargá nuestra base de datos en formato CSV. El archivo contiene las oportunidades que alimentan el [servicio web](https://github.com/Atlanticx-Datos/100_Oportunidades).
 - **Mantente Actualizado:** Las actualizaciones regulares aseguran que tengas acceso a las oportunidades más actuales disponibles en todo el mundo.
 
 ### Para Desarrolladores
 
-- **Iniciativa de Código Abierto:** Estamos en el proceso de pulir y documentar nuestra base de código para hacerla disponible como una base de código abierto de calidad. Actualmente, el código se aloja en un repositorio personal mientras trabajamos en su mejora. Puedes encontrarlo en [Oportunidades en GitHub](https://github.com/MiguelGalp/Oportunidades). Pronto será trasladado al repositorio institucional [Atlanticx-Datos/100_Oportunidades](https://github.com/Atlanticx-Datos/100_Oportunidades).
-- **Desarrollo Colaborativo:** Únete a nuestra comunidad de desarrolladores para mejorar la plataforma, corregir imperfecciones e implementar nuevas características.
+- **Iniciativa de Código Abierto:** Estamos en el proceso de pulir y documentar el código que sostiene el servicio. Buscamos hacerlo disponible como una base open source de calidad. Actualmente, el código se aloja en un repositorio personal mientras trabajamos en su mejora. Puedes encontrarlo en [Oportunidades en GitHub](https://github.com/MiguelGalp/Oportunidades). Pronto será trasladado al repositorio institucional [Atlanticx-Datos/100_Oportunidades](https://github.com/Atlanticx-Datos/100_Oportunidades).
+- **Desarrollo Colaborativo:** Nos interesa que te sumes a nuestra comunidad de desarrolladores para mejorar la plataforma, corregir imperfecciones e implementar nuevas características.
 - **Tecnología Utilizada:** Construido con Flask, integrado con Notion y Auth0, y optimizado con caché de Redis.
 
 ### Para empezar
