@@ -1,6 +1,6 @@
 ![Logo](Logo.png)
 
-# 100 ︱ Oportunidades - Convocatorias Artísticas Globales para Latinxs, Open Sourced
+# 100 ︱ Oportunidades - Convocatorias Artísticas Globales para Latinxs, Código Abierto
 
 ## [English version](#description)
 
@@ -10,7 +10,7 @@
 
 ### Origen de las Oportunidades
 
-Las oportunidades presentadas en nuestra plataforma se obtienen a través de un proceso automatizado que recopila información de varios sitios web. Este método nos permite superar barreras como muros de pago o navegaciones complicadas publicidad o relevancia, asegurando que las oportunidades estén actualizadas. Además, filtramos la data desde una mirada experta que solo publica convocatorias relevantes. Por último, nuestra base de datos se integra a la inteligencia artificial para generar resúmenes rápidos y legibles de cada oportunidad.
+Las oportunidades presentadas en nuestra plataforma se obtienen a través de un proceso automatizado que recopila información de varios sitios web. Este método nos permite superar barreras como muros de pago o navegaciones complicadas, asegurando que las oportunidades estén actualizadas. Además, filtramos la data desde una mirada experta que solo publica convocatorias relevantes. Por último, nuestra base de datos se integra a la inteligencia artificial para generar resúmenes rápidos y legibles de cada oportunidad.
 
 ### Para Artistas y Agentes Culturales
 
@@ -19,14 +19,14 @@ Las oportunidades presentadas en nuestra plataforma se obtienen a través de un 
 
 ### Para Desarrolladores
 
-- **Iniciativa de Código Abierto:** Estamos en el proceso de pulir y documentar nuestra base de código para hacerla disponible como una base de código abierto de calidad. Tus contribuciones pueden ayudarnos a mejorar la funcionalidad y usabilidad de la plataforma.
+- **Iniciativa de Código Abierto:** Estamos en el proceso de pulir y documentar nuestra base de código para hacerla disponible como una base de código abierto de calidad. Actualmente, el código se aloja en un repositorio personal mientras trabajamos en su mejora. Puedes encontrarlo en [Oportunidades en GitHub](https://github.com/MiguelGalp/Oportunidades). Pronto será trasladado al repositorio institucional [Atlanticx-Datos/100_Oportunidades](https://github.com/Atlanticx-Datos/100_Oportunidades).
 - **Desarrollo Colaborativo:** Únete a nuestra comunidad de desarrolladores para mejorar la plataforma, corregir imperfecciones e implementar nuevas características.
 - **Tecnología Utilizada:** Construido con Flask, integrado con Notion y Auth0, y optimizado con caché de Redis.
 
 ### Para empezar
 
 1. **Para Usuarios:** Visita nuestro [sitio web](http://oportunidades-vercel.vercel.app) para explorar oportunidades y nuestras herramientas (compartir y guardar).
-2. **Para Desarrolladores:** Clona el repositorio y sigue las instrucciones de configuración en el README para comenzar a contribuir.
+2. **Para Desarrolladores:** Clona el repositorio personal y sigue las instrucciones de configuración en el README para comenzar a contribuir.
 
 ### Contribuciones
 
@@ -53,14 +53,14 @@ The opportunities featured on our platform are sourced through an automated proc
 
 ### For Developers
 
-- **Open Source Initiative:** We are in the process of polishing and documenting our codebase to make it truly open-source. Your contributions can help us enhance the platform's functionality and usability.
+- **Open Source Initiative:** We are in the process of polishing and documenting our codebase to make it truly open-source. Currently, the code is hosted in a personal repository while we work on improvements. You can find it at [Oportunidades on GitHub](https://github.com/MiguelGalp/Oportunidades). It will soon be moved to the institutional repository [Atlanticx-Datos/100_Oportunidades](https://github.com/Atlanticx-Datos/100_Oportunidades).
 - **Collaborative Development:** Join our community of developers to improve the platform, fix rough edges, and implement new features.
 - **Tech Stack:** Built with Flask, integrated with Notion and Auth0, and optimized with Redis caching.
 
 ### Getting Started
 
 1. **For Users:** Visit our [website](http://oportunidades-vercel.vercel.app) to explore opportunities and our tools (sharing and saving).
-2. **For Developers:** Clone the repository and follow the setup instructions in the README to start contributing.
+2. **For Developers:** Clone the personal repository and follow the setup instructions in the README to start contributing.
 
 ### Contributing
 
