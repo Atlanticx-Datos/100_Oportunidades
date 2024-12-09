@@ -6,7 +6,7 @@
 
 ### Descripción
 
-100 + Oportunidades es una plataforma dedicada a conectar a los **artistas, estudiantes, investigadores y trabajadores culturales** del continente con **convocatorias globales** de desarrollo profesional y formación. El proyecto construye datos abiertos en relación a becas, residencias, fondos de producción y/o movilidad, premios y concursos. Utilizamos la perspectiva que plantea la alianza ["Digital Public Goods"](https://www.un.org/techenvoy/content/digital-public-goods), **un proyecto de fomento al código abierto de impacto social de la ONU**. Al mismo tiempo, invitamos a desarrolladores a unirse a nosotros para refinar y expandir este proyecto.
+100 + Oportunidades es una plataforma dedicada a conectar a los **artistas, estudiantes, investigadores y trabajadores culturales** del continente con **convocatorias globales** de desarrollo profesional y formación. El proyecto construye datos abiertos en relación a becas, residencias, fondos de producción y/o movilidad, premios y concursos. Utilizamos los lineamientos que plantea la alianza ["Digital Public Goods"](https://www.un.org/techenvoy/content/digital-public-goods), **un proyecto de fomento al código abierto de impacto social de la ONU**. Al mismo tiempo, invitamos a desarrolladores a unirse a nosotros para refinar y expandir este proyecto.
 
 ### Origen de las Oportunidades
 
