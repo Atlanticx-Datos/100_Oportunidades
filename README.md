@@ -10,7 +10,7 @@
 
 ### Origen de las Oportunidades
 
-Como parte de su misión en relación al desarrollo prefosional de artistas e investigadores, la [ONG Atlanticx](https://atlanticx.org) desarrolló un proceso de "scrapping" automatizado que alimenta una [web app](https://oportunidades.lat). Se trata de un script que utiliza la librería de javascript llamada "Playright" para recopilar información. Este método nos permite superar algunos muros de subscripción dentro de proyectos que monetizan la distribución de la información y, sobretodo, actualizar de forma sostenible los datos y hacerlo en el marco de los lineamientos de accesibilidad e impacto de la alianza DPG.
+Como parte de su misión en relación al desarrollo prefosional de artistas e investigadores en la Argentina y Latinoamérica, la [ONG Atlanticx](https://atlanticx.org) desarrolló un proceso de "scrapping" automatizado que alimenta una [web app](https://oportunidades.lat). Se trata de un script que utiliza la librería de javascript llamada "Playright" para recopilar información. Este método nos permite superar algunos muros de subscripción dentro de proyectos que monetizan la distribución de la información y, sobretodo, actualizar de forma sostenible los datos y hacerlo en el marco de los lineamientos de accesibilidad e impacto de la alianza DPG.
 
 ### Para Artistas, Estudiantes, Investigadores y Agentes de la Cultura
 
