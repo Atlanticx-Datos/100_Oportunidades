@@ -1,6 +1,6 @@
 ![Logo](Logo_Muy_Peq.png)
 
-# 100 + Oportunidades - Convocatorias Artísticas Globales para Latinoamérica, Datos Abiertos
+# 100 + Oportunidades --> Convocatorias Artísticas Globales para Latinoamérica, Datos Abiertos
 
 ## [English version below](#description)
 
