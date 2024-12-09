@@ -14,14 +14,15 @@ Las oportunidades presentadas en nuestra plataforma se obtienen a través de un 
 
 ### Para Artistas, Estudiantes, Investigadores y Agentes de la Cultura
 
-- **Accede a Oportunidades:** Descargá nuestra base de datos [en formato CSV](https://github.com/Atlanticx-Datos/100_Oportunidades/Oportunidades_Dic_2024.csv). El archivo contiene las oportunidades que alimentan el [servicio web](https://github.com/Atlanticx-Datos/100_Oportunidades), donde las oportunidades son filtradas solo por aquellas **actualmente abiertas**. El servicio permite además **buscar por mes y categorías** así como guardar y compartir oportunidades individualmente. 
-- **Mantente Actualizado:** Las actualizaciones regulares aseguran que tengas acceso a las oportunidades más actuales disponibles en todo el mundo.
+- **Accede a Oportunidades:** Descargá nuestra base de datos [en formato CSV](https://github.com/Atlanticx-Datos/100_Oportunidades/Oportunidades_Dic_2024.csv). El archivo contiene las oportunidades que alimentan el [servicio web](https://github.com/Atlanticx-Datos/100_Oportunidades)
+- **Busca por mes de cierre o categoría:** El servicio web filtra solo por aquellas oportunidades **actualmente abiertas**. El servicio permite además **buscar por mes y categorías** así como guardar y compartir oportunidades individualmente.
+- **Guarda y comparte oportunidades:**: 100 + Oportunidades permite guardar y compartir enlaces a oportunidades a través de redes sociales (WhatsApp, LinkeIn) y el correo electrónico. 
 
 ### Para Desarrolladores
 
 - **Iniciativa de Código Abierto:** Estamos en el proceso de pulir y documentar el código que sostiene el servicio. Buscamos hacerlo disponible como una base open source de calidad. Actualmente, el código se aloja en un repositorio personal mientras trabajamos en su mejora. Puedes encontrarlo en [Oportunidades en GitHub](https://github.com/MiguelGalp/Oportunidades). Pronto será trasladado al repositorio institucional [Atlanticx-Datos/100_Oportunidades](https://github.com/Atlanticx-Datos/100_Oportunidades).
 - **Desarrollo Colaborativo:** Nos interesa que te sumes a nuestra comunidad de desarrolladores para mejorar la plataforma, corregir imperfecciones e implementar nuevas características.
-- **Tecnología Utilizada:** Construido con Flask, integrado con Notion y Auth0, y optimizado con caché de Redis.
+- **Tecnología Utilizada:** Construido con Flask, integrado con Notion (DB + IA) y Auth0, y optimizado con caché de Redis.
 
 ### Para empezar
 
@@ -34,7 +35,7 @@ Damos la bienvenida a contribuciones de desarrolladores de todos los niveles. Ya
 
 ### Únete a Nosotros
 
-Sé parte de un proyecto que no solo conecta a artistas con oportunidades, sino que también fomenta una comunidad colaborativa de código abierto. Juntos, podemos hacer de 100 ︱ Oportunidades un recurso completo y accesible para artistas, estudiantes, investigadores y trabajadores culturales en todo el mundo.
+Sé parte de un proyecto que no solo conecta a artistas con oportunidades, sino que también fomenta una comunidad colaborativa de código abierto. Juntos, podemos hacer de 100 + Oportunidades un recurso completo y accesible para artistas, estudiantes, investigadores y trabajadores culturales en latinoamérica y todo el mundo.
 
 ---
 
