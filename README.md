@@ -49,8 +49,9 @@ The opportunities presented on our platform are obtained through an automated pr
 
 ### For Artists, Students, Researchers and Cultural Workers
 
-- **Access Opportunities:** Download periodic CSV files containing the latest opportunities directly from our Notion database.
-- **Stay Updated:** Regular updates ensure you have access to the most current opportunities available worldwide.
+- **Access Opportunities:** Download our database in CSV format. The file contains the opportunities that feed [the web service](https://oportunidades.lat)
+- **Search by closing month or category:** The web service filters only those opportunities that are currently open. The service also allows you to search by month and category as well as save and share opportunities individually.
+- **Save and share opportunities:** 100+ Opportunities allows you to save and share links to opportunities through social networks (WhatsApp, LinkeIn) and email.
 
 ### For Developers
 
