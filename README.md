@@ -1,4 +1,4 @@
-![Logo](PreviewOpps.png)
+![Logo](PreviewOpps1.png)
 
 # 100 + Oportunidades (convocatorias para arte y cultura).
 
