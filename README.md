@@ -10,7 +10,7 @@
 
 ### Origen de las Oportunidades
 
-Las oportunidades presentadas en nuestra plataforma se obtienen a través de un proceso automatizado. Se trata de un script que utiliza la librería de javascript llamada "Playright" para recopilar información de varios sitios web. Este método nos permite superar algunos muros de subscripción dentro de proyectos monetizados y, sobretodo, hacer accesible la información en el marco de los lineamientos de accesibilidad de la alianza DPG.
+Las oportunidades presentadas en nuestra plataforma se obtienen a través de un proceso automatizado. Se trata de un script que utiliza la librería de javascript llamada "Playright" para recopilar información de varios sitios web. Este método nos permite superar algunos muros de subscripción dentro de proyectos monetizados y, sobretodo, trabajar la información en el marco de los lineamientos de accesibilidad e impacto de la alianza DPG.
 
 ### Para Artistas, Estudiantes, Investigadores y Agentes de la Cultura
 
