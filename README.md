@@ -10,7 +10,7 @@
 
 ### Origen de las Oportunidades
 
-Las oportunidades presentadas en nuestra plataforma se obtienen a través de un proceso automatizado. Se trata de un script que utiliza la librería de javascript llamada "Playright" para recopilar información de varios sitios web. Este método nos permite superar algunos muros de subscripción dentro de proyectos monetizados y, sobretodo, trabajar la información en el marco de los lineamientos de accesibilidad e impacto de la alianza DPG.
+Como parte de su misión en relación al desarrollo prefosional de artistas e investigadores, la ONG Atlanticx desarrolló un proceso de "scrapping" automatizado. Se trata de un script que utiliza la librería de javascript llamada "Playright" para recopilar información. Este método nos permite superar algunos muros de subscripción dentro de proyectos que monetizan la distribución de la información y, sobretodo, actaulizar de forma sostenible los datos y hacerlo en el marco de los lineamientos de accesibilidad e impacto de la alianza DPG.
 
 ### Para Artistas, Estudiantes, Investigadores y Agentes de la Cultura
 
