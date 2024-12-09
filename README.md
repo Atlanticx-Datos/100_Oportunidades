@@ -20,7 +20,7 @@ Como parte de su misión en relación al desarrollo prefosional de artistas e in
 
 ### Para Desarrolladores
 
-- **Iniciativa de Código Abierto:** Estamos en el proceso de pulir y documentar el código que sostiene el servicio. Buscamos hacerlo disponible como una base open source de calidad. Actualmente, el código se aloja en un repositorio personal mientras trabajamos en su mejora. Puedes encontrarlo en [Oportunidades en GitHub](https://github.com/MiguelGalp/Oportunidades). Pronto será trasladado al repositorio institucional [Atlanticx-Datos/100_Oportunidades](https://github.com/Atlanticx-Datos/100_Oportunidades).
+- **Iniciativa de Código Abierto:** Estamos en el proceso de pulir y documentar el código que sostiene el servicio. Buscamos hacerlo disponible como una base open source de calidad. Actualmente, el código se aloja en el repositorio personal de Miguel Galperin (desarrollador y fundador de Atlanticx) mientras trabajamos en su mejora. Puedes encontrarlo en [Oportunidades en GitHub](https://github.com/MiguelGalp/Oportunidades). Pronto será trasladado al repositorio institucional [Atlanticx-Datos/100_Oportunidades](https://github.com/Atlanticx-Datos/100_Oportunidades).
 - **Desarrollo Colaborativo:** Nos interesa que te sumes a nuestra comunidad de desarrolladores para mejorar la plataforma, corregir imperfecciones e implementar nuevas características.
 - **Tecnología Utilizada:** Construido con Flask, integrado con Notion (DB + IA) y Auth0, y optimizado con caché de Redis.
 
@@ -55,7 +55,7 @@ As part of its mission regarding the pre-development of artists and researchers,
 
 ### For Developers
 
-- **Open Source Initiative:** We are in the process of polishing and documenting our codebase to make it truly open-source. Currently, the code is hosted in a personal repository while we work on improvements. You can find it at [Oportunidades on GitHub](https://github.com/MiguelGalp/Oportunidades). It will soon be moved to the institutional repository [Atlanticx-Datos/100_Oportunidades](https://github.com/Atlanticx-Datos/100_Oportunidades).
+- **Open Source Initiative:** We are in the process of polishing and documenting our codebase to make it truly open-source. Currently, the code It is hosted in the personal repository of Miguel Galperin (developer and founder of Atlanticx) while we work on improvements. You can find it at [Oportunidades on GitHub](https://github.com/MiguelGalp/Oportunidades). It will soon be moved to the institutional repository [Atlanticx-Datos/100_Oportunidades](https://github.com/Atlanticx-Datos/100_Oportunidades).
 - **Collaborative Development:** Join our community of developers to improve the platform, fix rough edges, and implement new features.
 - **Tech Stack:** Built with Flask, integrated with Notion and Auth0, and optimized with Redis caching.
 
