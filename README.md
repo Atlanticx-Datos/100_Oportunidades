@@ -1,6 +1,6 @@
 ![Logo](Logo_Muy_Peq.png)
 
-# 100 + Oportunidades --> Arte y Cultura Globales para Latinoamérica: Convocatorias en Datos Abiertos
+# 100 + Oportunidades --> Enlazamos a Convocotorias Para La Cultural Utilizando Datos Abiertos.
 
 ## [English version below](#description)
 
