@@ -10,12 +10,12 @@
 
 ### Origen de las Oportunidades
 
-Como parte de su misión en relación al desarrollo prefosional de artistas e investigadores, la ONG Atlanticx desarrolló un proceso de "scrapping" automatizado. Se trata de un script que utiliza la librería de javascript llamada "Playright" para recopilar información. Este método nos permite superar algunos muros de subscripción dentro de proyectos que monetizan la distribución de la información y, sobretodo, actaulizar de forma sostenible los datos y hacerlo en el marco de los lineamientos de accesibilidad e impacto de la alianza DPG.
+Como parte de su misión en relación al desarrollo prefosional de artistas e investigadores, la ONG Atlanticx desarrolló un proceso de "scrapping" automatizado. Se trata de un script que utiliza la librería de javascript llamada "Playright" para recopilar información. Este método nos permite superar algunos muros de subscripción dentro de proyectos que monetizan la distribución de la información y, sobretodo, actualizar de forma sostenible los datos y hacerlo en el marco de los lineamientos de accesibilidad e impacto de la alianza DPG.
 
 ### Para Artistas, Estudiantes, Investigadores y Agentes de la Cultura
 
 - **Accede a Oportunidades:** Descargá nuestra base de datos [en formato CSV](https://github.com/Atlanticx-Datos/100_Oportunidades/Oportunidades_Dic_2024.csv). El archivo contiene las oportunidades que alimentan el [servicio web](https://github.com/Atlanticx-Datos/100_Oportunidades)
-- **Busca por mes de cierre o categoría:** El [servicio web](https://github.com/Atlanticx-Datos/100_Oportunidades) filtra solo por aquellas oportunidades **actualmente abiertas** y permite, además, **buscar por mes y categorías** así como guardar y compartir oportunidades individualmente.
+- **Busca por mes de cierre o categoría:** El [servicio web](https://github.com/Atlanticx-Datos/100_Oportunidades) filtra solo por aquellas oportunidades **actualmente abiertas** y permite, además, **realizar búsquedas con parámetros como "mes de cierr" y categorías como "música", o "teatro"**
 - **Guarda y comparte oportunidades:**: 100 + Oportunidades permite guardar y compartir enlaces a oportunidades a través de redes sociales (WhatsApp, LinkeIn) y el correo electrónico. 
 
 ### Para Desarrolladores
