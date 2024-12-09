@@ -1,12 +1,12 @@
 ![Logo](Logo_Muy_Peq.png)
 
-# 100 + Oportunidades --> Enlazamos a Convocotorias Para La Cultural Utilizando Datos Abiertos.
+# 100 + Oportunidades (convocatorias para arte y cultura).
 
 ## [English version below](#description)
 
 ### Descripción
 
-100 + Oportunidades es una plataforma dedicada a conectar a los **artistas, estudiantes, investigadores y trabajadores culturales** del continente con **convocatorias globales** de desarrollo profesional y formación. El proyecto construye datos públicos en relación a becas, residencias, fondos de producción y/o movilidad, premios y concursos. Nuestra misión es hacer que estas oportunidades sean tratadas desde la perspectiva que plantea la alianza "Digital Public Goods", **un proyecto de fomento al código abierto de impacto social de la ONU**. Al mismo tiempo, invitamos a desarrolladores a unirse a nosotros para refinar y expandir este proyecto al hacerlo --paulatinamente-- de código abierto.
+100 + Oportunidades es una plataforma dedicada a conectar a los **artistas, estudiantes, investigadores y trabajadores culturales** del continente con **convocatorias globales** de desarrollo profesional y formación. El proyecto construye datos abiertos en relación a becas, residencias, fondos de producción y/o movilidad, premios y concursos. Utilizamos la perspectiva que plantea la alianza "Digital Public Goods", **un proyecto de fomento al código abierto de impacto social de la ONU**. Al mismo tiempo, invitamos a desarrolladores a unirse a nosotros para refinar y expandir este proyecto.
 
 ### Origen de las Oportunidades
 
