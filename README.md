@@ -1,4 +1,4 @@
-![Logo](Logo_1.png)
+![Logo](Logo_Chico.png)
 
 # 100 ︱ Oportunidades - Convocatorias Artísticas Globales para Latinxs, Datos Abiertos
 
