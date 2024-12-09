@@ -1,4 +1,4 @@
-![Logo](Logo_Muy_Peq.png)
+![Logo](Frame 4 (3).png)
 
 # 100 + Oportunidades (convocatorias para arte y cultura).
 
