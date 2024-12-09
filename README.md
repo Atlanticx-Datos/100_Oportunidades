@@ -6,7 +6,7 @@
 
 ### Descripción
 
-100 ︱ Oportunidades es una plataforma dedicada a conectar a los **artistas, estudiantes, investigadores y trabajadores culturales** del continente con convocatorias de desarrollo profesional y formación. El proyecto construye datos públicos en relación a becas, residencias, fondos de producción y/o movilidad, premios y concursos. Nuestra misión es hacer que estas oportunidades sean tratadas desde la perspectiva que plante la alianza "Digital Public Goods" y que estos datos abiertos sean manejables para todos. Al mismo tiempo, invitamos a desarrolladores a unirse a nosotros para refinar y expandir este proyecto al hacerlo --paulatinamente-- de código abierto.
+100 ︱ Oportunidades es una plataforma dedicada a conectar a los **artistas, estudiantes, investigadores y trabajadores culturales** del continente con convocatorias de desarrollo profesional y formación. El proyecto construye datos públicos en relación a becas, residencias, fondos de producción y/o movilidad, premios y concursos. Nuestra misión es hacer que estas oportunidades sean tratadas desde la perspectiva que plantea la alianza "Digital Public Goods" y que estos datos abiertos sean manejables para todos. Al mismo tiempo, invitamos a desarrolladores a unirse a nosotros para refinar y expandir este proyecto al hacerlo --paulatinamente-- de código abierto.
 
 ### Origen de las Oportunidades
 
