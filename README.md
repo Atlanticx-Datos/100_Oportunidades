@@ -15,7 +15,7 @@ Como parte de su misión en relación al desarrollo prefosional de artistas e in
 ### Para Artistas, Estudiantes, Investigadores y Agentes de la Cultura
 
 - **Accede a Oportunidades:** Descargá nuestra base de datos [en formato CSV](https://github.com/Atlanticx-Datos/100_Oportunidades/Oportunidades_Dic_2024.csv). El archivo contiene las oportunidades que alimentan el [servicio web](https://github.com/Atlanticx-Datos/100_Oportunidades)
-- **Busca por mes de cierre o categoría:** El [servicio web](https://github.com/Atlanticx-Datos/100_Oportunidades) filtra solo por aquellas oportunidades **actualmente abiertas**. El servicio permite además **buscar por mes y categorías** así como guardar y compartir oportunidades individualmente.
+- **Busca por mes de cierre o categoría:** El [servicio web](https://github.com/Atlanticx-Datos/100_Oportunidades) filtra solo por aquellas oportunidades **actualmente abiertas** y permite, además, **buscar por mes y categorías** así como guardar y compartir oportunidades individualmente.
 - **Guarda y comparte oportunidades:**: 100 + Oportunidades permite guardar y compartir enlaces a oportunidades a través de redes sociales (WhatsApp, LinkeIn) y el correo electrónico. 
 
 ### Para Desarrolladores
