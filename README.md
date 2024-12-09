@@ -15,7 +15,7 @@ Como parte de su misión en relación al desarrollo prefosional de artistas e in
 ### Para Artistas, Estudiantes, Investigadores y Agentes de la Cultura
 
 - **Accede a Oportunidades:** Descargá nuestra base de datos [en formato CSV](Oportunidades_Dic_2024.csv). El archivo contiene las oportunidades que alimentan el [servicio web](https://oportunidades.lat)
-- **Busca por mes de cierre o categoría:** [100 + Oportunidades](https://oportunidades.lat) filtra solo por aquellas oportunidades **actualmente abiertas** y permite, además, **realizar búsquedas con parámetros como "mes de cierre" y categorías como "música", o "teatro"**
+- **Busca por mes de cierre o categoría:** la web app de [100 + Oportunidades](https://oportunidades.lat) filtra solo por aquellas oportunidades **actualmente abiertas** y permite, además, **realizar búsquedas con parámetros como "mes de cierre" y categorías como "música", o "teatro"**
 - **Guarda y comparte oportunidades:** Guardá y compartí enlaces a oportunidades a través de redes sociales (WhatsApp, LinkeIn) y el correo electrónico desde [nuestra app](https://oportunidades.lat).
 
 ### Para Desarrolladores
