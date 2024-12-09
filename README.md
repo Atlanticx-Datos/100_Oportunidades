@@ -6,11 +6,11 @@
 
 ### Descripción
 
-100 + Oportunidades es una plataforma dedicada a conectar a los **artistas, estudiantes, investigadores y trabajadores culturales** del continente con **convocatorias globales** de desarrollo profesional y formación. El proyecto construye datos públicos en relación a becas, residencias, fondos de producción y/o movilidad, premios y concursos. Nuestra misión es hacer que estas oportunidades sean tratadas desde la perspectiva que plantea la alianza "Digital Public Goods" y que estos datos abiertos sean manejables para todos. Al mismo tiempo, invitamos a desarrolladores a unirse a nosotros para refinar y expandir este proyecto al hacerlo --paulatinamente-- de código abierto.
+100 + Oportunidades es una plataforma dedicada a conectar a los **artistas, estudiantes, investigadores y trabajadores culturales** del continente con **convocatorias globales** de desarrollo profesional y formación. El proyecto construye datos públicos en relación a becas, residencias, fondos de producción y/o movilidad, premios y concursos. Nuestra misión es hacer que estas oportunidades sean tratadas desde la perspectiva que plantea la alianza "Digital Public Goods", **un proyecto de fomento al código abierto de impacto social de la ONU**. Al mismo tiempo, invitamos a desarrolladores a unirse a nosotros para refinar y expandir este proyecto al hacerlo --paulatinamente-- de código abierto.
 
 ### Origen de las Oportunidades
 
-Las oportunidades presentadas en nuestra plataforma se obtienen a través de un proceso automatizado. Se trata de un script que utiliza la librería de javascript llamada "Playright" para recopilar información de varios sitios web. Este método nos permite superar algunos muros de pago y sobretodo, las navegaciones complicadas por publicidades o la recolecci´øn de datos personales. Por otro lado, 100 ⎸ Oportunidades filtra la información considerando tanto la fecha de cierre como incorporando la mirada experta de humanos. Esto garantiza la publicación de convocatorias relevantes cada día. Por último, parecee importante mencionar que nuestra base de datos se integra a la inteligencia artificial con el fin de generar resúmenes rápidos y legibles de cada oportunidad. 
+Las oportunidades presentadas en nuestra plataforma se obtienen a través de un proceso automatizado. Se trata de un script que utiliza la librería de javascript llamada "Playright" para recopilar información de varios sitios web. Este método nos permite superar algunos muros de subscripción dentro de proyectos monetizados y, sobretodo, hacer accesible la información en el marco de los lineamientos de accesibilidad de la alianza DPG.
 
 ### Para Artistas, Estudiantes, Investigadores y Agentes de la Cultura
 
@@ -25,7 +25,7 @@ Las oportunidades presentadas en nuestra plataforma se obtienen a través de un 
 
 ### Para empezar
 
-1. **Para Usuarios:** Visita nuestro [sitio web](http://oportunidades-vercel.vercel.app) para explorar oportunidades y nuestras herramientas (compartir y guardar).
+1. **Para Usuarios:** Visita nuestro [sitio web](http://oportunidades.lat) para explorar oportunidades y nuestras herramientas (compartir y guardar).
 2. **Para Desarrolladores:** Clona el repositorio personal y sigue las instrucciones de configuración en el README para comenzar a contribuir.
 
 ### Contribuciones
@@ -40,11 +40,11 @@ Sé parte de un proyecto que no solo conecta a artistas con oportunidades, sino 
 
 ## Description
 
-100 ︱ Oportunidades is a platform dedicated to connecting artists, students, researches and cultural workers with global opportunities such as scholarships, residencies, and competitions. Our mission is to make these opportunities accessible to everyone, while also inviting developers to join us in refining and expanding this open-source project.
+100 + Opportunities is a platform dedicated to connecting **artists, students, researchers and cultural workers** from the continent with **global calls** for professional development and training. The project builds public data regarding grants, residencies, production and/or mobility funds, awards and competitions. Our mission is to ensure that these opportunities are treated from the perspective of the "Digital Public Goods" alliance, **a UN project to promote open source for social impact**. At the same time, we invite developers to join us in refining and expanding this project by gradually making it open source.
 
 ### Origin of Opportunities
 
-The opportunities featured on our platform are sourced through an automated process that scrapes information from various opportunity websites. This method allows us to overcome barriers such as paywalls and complex navigation, ensuring that opportunities are up-to-date and accessible. Additionally, our Notion database is enhanced with artificial intelligence to generate quick, readable summaries of each opportunity.
+The opportunities presented on our platform are obtained through an automated process. It is a script that uses the javascript library called "Playright" to collect information from various websites. This method allows us to overcome some subscription walls within monetized projects and, above all, to make the information accessible within the framework of the accessibility guidelines of the DPG alliance.
 
 ### For Artists, Students, Researchers and Cultural Workers
 
