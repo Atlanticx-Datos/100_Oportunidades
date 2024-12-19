@@ -1,4 +1,4 @@
-![Logo](PreviewOpps2.png)
+![Logo](MasOpps.png)
 
 # + Oportunidades (convocatorias para arte y cultura).
 
