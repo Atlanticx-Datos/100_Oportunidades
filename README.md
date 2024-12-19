@@ -1,12 +1,12 @@
 ![Logo](PreviewOpps2.png)
 
-# 100 + Oportunidades (convocatorias para arte y cultura).
+# + Oportunidades (convocatorias para arte y cultura).
 
 ## [English version below](#description)
 
 ### Descripción
 
-100 + Oportunidades es una plataforma dedicada a conectar a los **artistas, estudiantes, investigadores y trabajadores culturales** del continente con **convocatorias globales** de desarrollo profesional y formación. El proyecto construye datos abiertos en relación a becas, residencias, fondos de producción y/o movilidad, premios y concursos. Utilizamos los lineamientos que plantea la alianza ["Digital Public Goods"](https://www.un.org/techenvoy/content/digital-public-goods), **un proyecto de fomento al código abierto de impacto social de la ONU**. Al mismo tiempo, invitamos a desarrolladores a unirse a nosotros para refinar y expandir este proyecto.
++ Oportunidades es una plataforma dedicada a conectar a los **artistas, estudiantes, investigadores y trabajadores culturales** del continente con **convocatorias globales** de desarrollo profesional y formación. El proyecto construye datos abiertos en relación a becas, residencias, fondos de producción y/o movilidad, premios y concursos. Utilizamos los lineamientos que plantea la alianza ["Digital Public Goods"](https://www.un.org/techenvoy/content/digital-public-goods), **un proyecto de fomento al código abierto de impacto social de la ONU**. Al mismo tiempo, invitamos a desarrolladores a unirse a nosotros para refinar y expandir este proyecto.
 
 ### Origen de las Oportunidades
 
@@ -41,7 +41,7 @@ Sé parte de un proyecto que no solo conecta a artistas con oportunidades, sino 
 
 ## Description
 
-100 + Opportunities is a platform dedicated to connecting **artists, students, researchers and cultural workers** from the continent with **global calls** for professional development and training. The project builds public data regarding grants, residencies, production and/or mobility funds, awards and competitions. Our mission is to ensure that these opportunities are treated from the perspective of the ["Digital Public Goods"](https://www.un.org/techenvoy/content/digital-public-goods) alliance, **a UN project to promote open source for social impact**. At the same time, we invite developers to join us in refining and expanding this project by gradually making it open source.
++ Oportunidades is a platform dedicated to connecting **artists, students, researchers and cultural workers** from the continent with **global calls** for professional development and training. The project builds public data regarding grants, residencies, production and/or mobility funds, awards and competitions. Our mission is to ensure that these opportunities are treated from the perspective of the ["Digital Public Goods"](https://www.un.org/techenvoy/content/digital-public-goods) alliance, **a UN project to promote open source for social impact**. At the same time, we invite developers to join us in refining and expanding this project by gradually making it open source.
 
 ### Origin of Opportunities
 
