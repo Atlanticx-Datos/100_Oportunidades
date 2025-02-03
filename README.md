@@ -17,6 +17,22 @@ Los datos que proveemos tienen origen en un proceso de "scrapping" que extrae in
 - **¿Cómo acceder?:** Existen dos métodos. Podés utilizar nuestra serivico web gratuito que incluye actualizaciones automáticas, filtros y un potente motor de búsqueda en la siguiente dirección: [servicio web](https://oportunidades.lat). También [podés descargar el archivo CSV](Oportunidades_Dic_2024.csv) que contiene todos los datos que utilizamos. 
 - **¿Qué permite el servicio web?:** la web app de [oportunidades](https://oportunidades.lat) filtra automáticamente las oportunidades **actualmente abiertas** y permite, además, **búsquedas avanzadas y guardar oportunidades** (para su posterior recuperación --r equiere login). También podés utilizar la web app para compartir los datos en redes sociales. 
 
+<details>
+  <summary>Click to expand/collapse</summary>
+
+  This is the hidden content that will be shown when the summary is clicked.  You can put anything you want here:
+
+  * Lists
+  * Paragraphs
+  * Code blocks:
+    ```python
+    print("Hello, world!")
+    ```
+  * Even more Markdown!  Just make sure it's properly formatted.
+
+</details>
+
+
 
 ### Para Desarrolladores
 
