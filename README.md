@@ -12,7 +12,7 @@ El proyecto utiliza los criterios de sostenibilidad e impacto social de la alian
 
 ### Utilizamos un modelo "anti-negocio" de mecenazgo digital
 
-Los datos que proveemos tienen origen en un proceso de "scrapping" que extrae información monetizada. Esto permite que el servicio web sea un "mecenazgo digital": en lugar de cobrar la información la ofrecemos sin cargo, sin utilizar publicidad y sin vender los datos de los usuarios. 
+Los datos que proveemos tienen origen en un proceso de "scrapping" que extrae información monetizada. Esto permite que el servicio web sea una acción de "mecenazgo digital": en lugar de cobrar la información la ofrecemos sin cargo, sin utilizar publicidad y sin vender los datos de los usuarios. 
 
 ### Para Artistas, Estudiantes, Investigadores y Agentes de la Cultura
 
