@@ -14,9 +14,9 @@ Como parte de su misión la [ONG Atlanticx](https://atlanticx.org) desarrolló u
 
 ### Para Artistas, Estudiantes, Investigadores y Agentes de la Cultura
 
-- **Accede a Oportunidades:** Descargá nuestra base de datos [en formato CSV](Oportunidades_Dic_2024.csv). El archivo contiene las oportunidades que alimentan el [servicio web](https://oportunidades.lat)
-- **Busca por mes de cierre o categoría:** la web app de [100 + Oportunidades](https://oportunidades.lat) filtra solo por aquellas oportunidades **actualmente abiertas** y permite, además, **realizar búsquedas con parámetros como "mes de cierre" y categorías como "música", o "teatro"**
-- **Guarda y comparte oportunidades:** Guardá y compartí enlaces a oportunidades a través de redes sociales (WhatsApp, LinkeIn) y el correo electrónico desde [nuestra app](https://oportunidades.lat).
+- **¿Cómo acceder?:** Existen dos métodos. Podés utilizar nuestra serivico web gratuito que incluye actualizaciones automáticas, filtros y un pontento motor de búsqueda en la siguiente dirección: [servicio web](https://oportunidades.lat). También podés descargar un archivo CSV que contiene todos los datos que utilizamos. 
+- **¿Qué permite el servicio web?:** la web app de [100 + Oportunidades](https://oportunidades.lat) filtra automáticamente las oportunidades **actualmente abiertas** y permite, además, **búsquedas avanzadas y el guardar oportunidades** para su posterior recuperación. 
+- **!Comparte oportunidades!:** Desde nuestra web app podés compartir fácilmente los enlaces a oportunidades. Lo podés hacer a través de redes sociales (WhatsApp, LinkeIn) y el correo electrónico desde [nuestra app](https://oportunidades.lat).
 
 ### Para Desarrolladores
 
