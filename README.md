@@ -28,7 +28,7 @@ Existen dos métodos. Podés utilizar nuestra serivico web gratuito que incluye 
   <summary>¿Qué permite el servicio web?</summary>
 
 
-La web app de [oportunidades](https://oportunidades.lat) filtra automáticamente las oportunidades **actualmente abiertas** y permite, además, **búsquedas avanzadas y guardar oportunidades** (para su posterior recuperación --r equiere login). También podés utilizar la web app para compartir los datos en redes sociales. 
+La web app de [oportunidades](https://oportunidades.lat) filtra automáticamente las oportunidades **actualmente abiertas** y permite, además, **búsquedas avanzadas y guardar oportunidades** (para su posterior recuperación -- requiere login). También podés utilizar la web app para compartir los datos en redes sociales. 
 
 </details>
 
