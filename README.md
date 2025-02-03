@@ -15,14 +15,14 @@ Los datos que proveemos tienen origen en un proceso de "scrapping" que extrae in
 ### Para Artistas, Estudiantes, Investigadores y Agentes de la Cultura
 
 <details>
-  <summary>**¿Cómo acceder?:**</summary>
+  <summary>¿Cómo acceder?</summary>
 
 Existen dos métodos. Podés utilizar nuestra serivico web gratuito que incluye actualizaciones automáticas, filtros y un potente motor de búsqueda en la siguiente dirección: [servicio web](https://oportunidades.lat). También [podés descargar el archivo CSV](Oportunidades_Dic_2024.csv) que contiene todos los datos que utilizamos. 
 
 </details>
 
 <details>
-  <summary>**¿Qué permite el servicio web?:**</summary>
+  <summary>¿Qué permite el servicio web?</summary>
 
 La web app de [oportunidades](https://oportunidades.lat) filtra automáticamente las oportunidades **actualmente abiertas** y permite, además, **búsquedas avanzadas y guardar oportunidades** (para su posterior recuperación --r equiere login). También podés utilizar la web app para compartir los datos en redes sociales. 
 
@@ -31,7 +31,7 @@ La web app de [oportunidades](https://oportunidades.lat) filtra automáticamente
 ### Para Desarrolladores
 
 <details>
-  <summary>**Iniciativa de Código Abierto:**</summary>
+  <summary>Iniciativa de Código Abierto</summary>
 
 
 Estamos en el proceso de pulir y documentar el código que sostiene el servicio. Buscamos hacerlo disponible como una base open source de calidad. Actualmente, el código se aloja en el repositorio personal de Miguel Galperin (desarrollador y fundador de Atlanticx) mientras trabajamos en su mejora. Puedes encontrarlo en [Oportunidades en GitHub](https://github.com/MiguelGalp/Oportunidades). Pronto será trasladado al repositorio institucional [Atlanticx-Datos/100_Oportunidades](https://github.com/Atlanticx-Datos/100_Oportunidades).
