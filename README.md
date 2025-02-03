@@ -6,7 +6,9 @@
 
 ### Descripción
 
-Oportunidades DGP es una start-up con fines culturales. Impulsados por la ONG Atlanticx nos dedicamos a conectar a los **artistas, estudiantes, investigadores y trabajadores culturales** del continente con **convocatorias globales** de desarrollo profesional y formación. El proyecto utiliza los criterios de sostenibilidad e impacto social de la alianza ["Digital Public Goods"](https://www.un.org/techenvoy/content/digital-public-goods).
+Oportunidades DGP es una start-up con fines culturales. Impulsados por la ONG Atlanticx nos dedicamos a conectar a los **artistas, estudiantes, investigadores y trabajadores culturales** del continente con **convocatorias globales** de desarrollo profesional y formación. 
+
+El proyecto utiliza los criterios de sostenibilidad e impacto social de la alianza ["Digital Public Goods"](https://www.un.org/techenvoy/content/digital-public-goods).
 
 ### Un modelo "anti-negocio"
 
