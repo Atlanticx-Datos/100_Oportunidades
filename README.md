@@ -10,9 +10,9 @@ Oportunidades DGP es una start-up con fines culturales. Impulsados por la ONG At
 
 El proyecto utiliza los criterios de sostenibilidad e impacto social de la alianza ["Digital Public Goods"](https://www.un.org/techenvoy/content/digital-public-goods).
 
-### Un modelo "anti-negocio"
+### Un modelo "anti-negocio" de mecenazgo digital
 
-Los datos que proveemos tienen origen en un proceso de "scrapping" que extrae información monetizada. Nuestro modelo es el del impulso cultural: en lugar de cobrar la información la brindamos sin publicidad, sin vender los datos y sin ninguna condición o lucro. Se trata de un proyecto de mecenazgo en el ámbito digital. 
+Los datos que proveemos tienen origen en un proceso de "scrapping" que extrae información monetizada. Esto permite que el servicio web sea un "mecenazgo digital": en lugar de cobrar la información la ofrecemos sin cargo, sin utilizar publicidad y sin vender los datos de los usuarios. 
 
 ### Para Artistas, Estudiantes, Investigadores y Agentes de la Cultura
 
