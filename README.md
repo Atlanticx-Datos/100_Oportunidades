@@ -14,44 +14,33 @@ Los datos que proveemos tienen origen en un proceso de "scrapping" que extrae in
 
 ### Para Artistas, Estudiantes, Investigadores y Agentes de la Cultura
 
-- **¿Cómo acceder?:** Existen dos métodos. Podés utilizar nuestra serivico web gratuito que incluye actualizaciones automáticas, filtros y un potente motor de búsqueda en la siguiente dirección: [servicio web](https://oportunidades.lat). También [podés descargar el archivo CSV](Oportunidades_Dic_2024.csv) que contiene todos los datos que utilizamos. 
-- **¿Qué permite el servicio web?:** la web app de [oportunidades](https://oportunidades.lat) filtra automáticamente las oportunidades **actualmente abiertas** y permite, además, **búsquedas avanzadas y guardar oportunidades** (para su posterior recuperación --r equiere login). También podés utilizar la web app para compartir los datos en redes sociales. 
-
 <details>
-  <summary>Click to expand/collapse</summary>
+  <summary>**¿Cómo acceder?:**</summary>
 
-  This is the hidden content that will be shown when the summary is clicked.  You can put anything you want here:
-
-  * Lists
-  * Paragraphs
-  * Code blocks:
-    ```python
-    print("Hello, world!")
-    ```
-  * Even more Markdown!  Just make sure it's properly formatted.
+Existen dos métodos. Podés utilizar nuestra serivico web gratuito que incluye actualizaciones automáticas, filtros y un potente motor de búsqueda en la siguiente dirección: [servicio web](https://oportunidades.lat). También [podés descargar el archivo CSV](Oportunidades_Dic_2024.csv) que contiene todos los datos que utilizamos. 
 
 </details>
 
+<details>
+  <summary>**¿Qué permite el servicio web?:**</summary>
 
+La web app de [oportunidades](https://oportunidades.lat) filtra automáticamente las oportunidades **actualmente abiertas** y permite, además, **búsquedas avanzadas y guardar oportunidades** (para su posterior recuperación --r equiere login). También podés utilizar la web app para compartir los datos en redes sociales. 
+
+</details>
 
 ### Para Desarrolladores
 
-- **Iniciativa de Código Abierto:** Estamos en el proceso de pulir y documentar el código que sostiene el servicio. Buscamos hacerlo disponible como una base open source de calidad. Actualmente, el código se aloja en el repositorio personal de Miguel Galperin (desarrollador y fundador de Atlanticx) mientras trabajamos en su mejora. Puedes encontrarlo en [Oportunidades en GitHub](https://github.com/MiguelGalp/Oportunidades). Pronto será trasladado al repositorio institucional [Atlanticx-Datos/100_Oportunidades](https://github.com/Atlanticx-Datos/100_Oportunidades).
+<details>
+  <summary>**Iniciativa de Código Abierto:**</summary>
+
+
+Estamos en el proceso de pulir y documentar el código que sostiene el servicio. Buscamos hacerlo disponible como una base open source de calidad. Actualmente, el código se aloja en el repositorio personal de Miguel Galperin (desarrollador y fundador de Atlanticx) mientras trabajamos en su mejora. Puedes encontrarlo en [Oportunidades en GitHub](https://github.com/MiguelGalp/Oportunidades). Pronto será trasladado al repositorio institucional [Atlanticx-Datos/100_Oportunidades](https://github.com/Atlanticx-Datos/100_Oportunidades).
 - **Desarrollo Colaborativo:** Nos interesa que te sumes a nuestra comunidad de desarrolladores para mejorar la plataforma, corregir imperfecciones e implementar nuevas características.
 - **Tecnología Utilizada:** Construido con Flask, integrado con Notion (DB + IA) y Auth0, y optimizado con caché de Redis.
+</details>
 
-### Para empezar
+Damos la bienvenida a contribuciones de desarrolladores de todos los niveles. Ya sea que estés interesado en corregir errores, agregar nuevas características o mejorar la documentación, tu aporte es valioso. 
 
-1. **Para Usuarios:** Visita nuestro [sitio web](http://oportunidades.lat) para explorar oportunidades y nuestras herramientas (compartir y guardar).
-2. **Para Desarrolladores:** Clona el repositorio personal y sigue las instrucciones de configuración en el README para comenzar a contribuir.
-
-### Contribuciones
-
-Damos la bienvenida a contribuciones de desarrolladores de todos los niveles. Ya sea que estés interesado en corregir errores, agregar nuevas características o mejorar la documentación, tu aporte es valioso. Por favor, consulta nuestras [directrices de contribución](CONTRIBUTING.md) para más información.
-
-### Únete a Nosotros
-
-Sé parte de un proyecto que no solo conecta a artistas con oportunidades, sino que también fomenta una comunidad colaborativa de código abierto. Juntos, podemos hacer de 100 + Oportunidades un recurso completo y accesible para artistas, estudiantes, investigadores y trabajadores culturales en latinoamérica y todo el mundo.
 
 ---
 
