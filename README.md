@@ -15,7 +15,7 @@ Los datos que proveemos tienen origen en un proceso de "scrapping" que extrae in
 ### Para Artistas, Estudiantes, Investigadores y Agentes de la Cultura
 
 - **¿Cómo acceder?:** Existen dos métodos. Podés utilizar nuestra serivico web gratuito que incluye actualizaciones automáticas, filtros y un potente motor de búsqueda en la siguiente dirección: [servicio web](https://oportunidades.lat). También [podés descargar el archivo CSV](Oportunidades_Dic_2024.csv) que contiene todos los datos que utilizamos. 
-- **¿Qué permite el servicio web?:** la web app de [100 + Oportunidades](https://oportunidades.lat) filtra automáticamente las oportunidades **actualmente abiertas** y permite, además, **búsquedas avanzadas y el guardar oportunidades** para su posterior recuperación. 
+- **¿Qué permite el servicio web?:** la web app de [oportunidades](https://oportunidades.lat) filtra automáticamente las oportunidades **actualmente abiertas** y permite, además, **búsquedas avanzadas y guardar oportunidades** (para su posterior recuperación --requiere login). 
 - **!Comparte oportunidades!:** Desde nuestra web app podés compartir fácilmente los enlaces a oportunidades. Lo podés hacer a través de redes sociales (WhatsApp, LinkeIn) y el correo electrónico desde [nuestra app](https://oportunidades.lat).
 
 ### Para Desarrolladores
