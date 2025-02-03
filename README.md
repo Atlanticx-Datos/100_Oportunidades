@@ -48,35 +48,40 @@ Damos la bienvenida a contribuciones de desarrolladores de todos los niveles. Ya
 
 ---
 
-## Description
+### Description
 
-+ Oportunidades is a platform dedicated to connecting **artists, students, researchers and cultural workers** from the continent with **global calls** for professional development and training. The project builds public data regarding grants, residencies, production and/or mobility funds, awards and competitions. Our mission is to ensure that these opportunities are treated from the perspective of the ["Digital Public Goods"](https://www.un.org/techenvoy/content/digital-public-goods) alliance, **a UN project to promote open source for social impact**. At the same time, we invite developers to join us in refining and expanding this project by gradually making it open source.
+Oportunidades DGP is a cultural start-up. Driven by the NGO Atlanticx, we are dedicated to connecting **artists, students, researchers, and cultural workers** from the continent with **global calls** for professional development and training.
 
-### Origin of Opportunities
+The project utilizes the sustainability and social impact criteria of the ["Digital Public Goods"](https://www.un.org/techenvoy/content/digital-public-goods) alliance.
 
-As part of its mission regarding the pre-development of artists and researchers, the [NGO Atlanticx](https://atlanticx.org) developed an automated scraping process. It is a script that uses the javascript library called "Playright" to collect information. This method allows us to overcome some subscription walls within projects that monetize the distribution of information and, above all, to update the data in a sustainable way and do so within the framework of the accessibility and impact guidelines of the DPG alliance.
+### A "Anti-Business" Model of Digital Patronage
 
-### For Artists, Students, Researchers and Cultural Workers
+The data we provide originates from a "scraping" process that extracts monetized information. This allows the web service to be a "digital patronage": instead of charging for the information, we offer it free of charge, without using advertising and without selling user data.
 
-- **Access Opportunities:** Download our database in CSV format. The file contains the opportunities that feed [the web service](https://oportunidades.lat)
-- **Search by closing month or category:** The web service filters only those opportunities that are currently open. The service also allows you to search by month and category as well as save and share opportunities individually.
-- **Save and share opportunities:** 100+ Opportunities allows you to save and share links to opportunities through social networks (WhatsApp, LinkeIn) and email.
+### For Artists, Students, Researchers, and Cultural Agents
+
+<details>
+  <summary>How to access the information?</summary>
+
+There are two methods. You can use our free web service, which includes automatic updates, filters, and a powerful search engine at the following address: [web service](https://oportunidades.lat). You can also [download the CSV file](Oportunidades_Dic_2024.csv) containing all the data we use.
+
+</details>
+
+<details>
+  <summary>What does the web service allow?</summary>
+
+The web app at [oportunidades](https://oportunidades.lat) automatically filters **currently open** opportunities and also allows **advanced searches and saving opportunities** (for later retrieval -- requires login). You can also use the web app to share the data on social networks.
+
+</details>
 
 ### For Developers
 
-- **Open Source Initiative:** We are in the process of polishing and documenting our codebase to make it truly open-source. Currently, the code It is hosted in the personal repository of Miguel Galperin (developer and founder of Atlanticx) while we work on improvements. You can find it at [Oportunidades on GitHub](https://github.com/MiguelGalp/Oportunidades). It will soon be moved to the institutional repository [Atlanticx-Datos/100_Oportunidades](https://github.com/Atlanticx-Datos/100_Oportunidades).
-- **Collaborative Development:** Join our community of developers to improve the platform, fix rough edges, and implement new features.
-- **Tech Stack:** Built with Flask, integrated with Notion and Auth0, and optimized with Redis caching.
+<details>
+  <summary>Open Source Initiative</summary>
 
-### Getting Started
+We are in the process of refining and documenting the code that supports the service. We aim to make it available as a high-quality open-source base. Currently, the code is hosted in Miguel Galperin's personal repository (developer and founder of Atlanticx) while we work on its improvement. You can find it at [Oportunidades on GitHub](https://github.com/MiguelGalp/Oportunidades). It will soon be moved to the institutional repository [Atlanticx-Datos/100_Oportunidades](https://github.com/Atlanticx-Datos/100_Oportunidades).  
+- **Collaborative Development:** We are interested in having you join our developer community to improve the platform, fix imperfections, and implement new features.  
+- **Technology Used:** Built with Flask, integrated with Notion (DB + AI) and Auth0, and optimized with Redis cache.  
+</details>
 
-1. **For Users:** Visit our [website](http://oportunidades-vercel.vercel.app) to explore opportunities and our tools (sharing and saving).
-2. **For Developers:** Clone the personal repository and follow the setup instructions in the README to start contributing.
-
-### Contributing
-
-We welcome contributions from developers of all levels. Whether you're interested in fixing bugs, adding new features, or improving documentation, your input is valuable. Please check our [contributing guidelines](CONTRIBUTING.md) for more information.
-
-### Join Us
-
-Be part of a project that not only connects artists with opportunities but also fosters a collaborative open-source community. Together, we can make 100 ︱ Oportunidades a comprehensive and accessible resource for artists worldwide.
+We welcome contributions from developers of all levels. Whether you are interested in fixing bugs, adding new features, or improving documentation, your contribution is valuable.
