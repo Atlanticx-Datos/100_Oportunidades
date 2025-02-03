@@ -1,6 +1,6 @@
 ![Logo](MasOpps.png)
 
-# + Oportunidades (convocatorias para arte y cultura).
+# Oportunidades (una base de datos para artistas).
 
 ## [English version below](#description)
 
